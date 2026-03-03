@@ -7,7 +7,11 @@
 ---
 
 ## 🛠️ Compétences techniques
-- 
+- C/C++
+- python
+- java
+- HTML/CSS/JS/PHP
+- Linux(bases)
 
 ---
 
