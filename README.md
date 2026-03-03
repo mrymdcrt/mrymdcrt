@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Maryem Ducouret
 
-<!--
-**mrymdcrt/mrymdcrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en informatique  
+🔐 Intéressée par la cybersécurité et le digital forensics  
+📍 Objectif : devenir Cyber Forensic Scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+- 
+
+---
+
+## 🚀 Projets
+- 🌐 Projets web
+
+---
+
+## 📚 En apprentissage
+- Analyse forensique
+- Sécurité réseau
+
+
+---
+
+## 📫 Me contacter
+- LinkedIn : https://www.linkedin.com/in/maryem-ducouret-599968330
